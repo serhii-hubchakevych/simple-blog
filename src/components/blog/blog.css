@@ -1,0 +1,19 @@
+.mrg-container{
+    margin-top: 50px !important;
+}
+.rdr-link{
+    color: white;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 20px;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.noth-to-show{
+    font-size: 40px;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 40%;
+}
